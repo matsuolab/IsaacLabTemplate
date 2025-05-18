@@ -34,3 +34,10 @@ _isaac_sim*
 _repo
 _build
 .lastformat
+
+# Docker/Singularity
+**/*.sif
+docker/exports/
+docker/.container.yaml
+docker/.container.cfg
+.env
